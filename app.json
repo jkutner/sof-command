@@ -1,0 +1,13 @@
+{
+  "name": "@atomist/sof-command",
+  "description": "StackOverflow search example for Atomist",
+  "repository": "https://github.com/jkutner/sof-command",
+  "env": {
+    "SUPPRESS_NO_CONFIG_WARNING": {
+      "value": "true"
+    },
+    "NODE_ENV": {
+      "value": "production"
+    }
+  }
+}

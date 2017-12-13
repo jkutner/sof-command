@@ -105,6 +105,10 @@ bot in Slack.
 Feel free to modify the code in the `SearchStackOverflow` command handler,
 restart your local automation client, and see what happens!
 
+## Deploying
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Support
 
 General support questions should be discussed in the `#support`
