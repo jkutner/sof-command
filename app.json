@@ -9,5 +9,13 @@
     "NODE_ENV": {
       "value": "production"
     }
+  },
+  "formation": {
+    "web": {
+      "quantity": 0
+    },
+    "worker": {
+      "quantity": 1
+    }
   }
 }
